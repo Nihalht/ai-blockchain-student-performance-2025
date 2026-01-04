@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+venv/
+.env
+
+# Build outputs
+dist/
+build/
+artifacts/
+frontend/src/artifacts/
+
+# Hardhat
+cache/
+typechain/
+typechain-types/
+coverage/
+coverage.json
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
