@@ -15,16 +15,20 @@ EduChain AI is a next-generation academic analytics platform that combines the i
 ## 📸 Project Showcase
 
 ### 1. Intelligence Dashboard
-![Dashboard](/Users/nihalht/.gemini/antigravity/brain/0dc5955f-2a70-4976-8556-48990ff5b91f/dashboard_final_1767525250966.png)
+![Dashboard](docs/images/dashboard.png)
 *Real-time statistics and infrastructure health monitoring.*
 
 ### 2. AI Performance Forecast
-![AI Prediction](/Users/nihalht/.gemini/antigravity/brain/0dc5955f-2a70-4976-8556-48990ff5b91f/performance_forecast_dashboard_1767523844758.png)
+![AI Prediction](docs/images/ai_prediction.png)
 *Student Persona mapping based on predicted academic outcomes.*
 
 ### 3. Teacher Portal (Blockchain Transaction)
-![Teacher Portal](/Users/nihalht/.gemini/antigravity/brain/0dc5955f-2a70-4976-8556-48990ff5b91f/teacher_portal_action_1767525498874.png)
+![Teacher Portal](docs/images/teacher_portal.png)
 *Securely deploying academic records to the decentralized protocol.*
+
+### 4. Blockchain Records Explorer
+![Blockchain Explorer](docs/images/blockchain_explorer.webp)
+*Immutable audit trail of all student achievements.*
 
 ---
 
