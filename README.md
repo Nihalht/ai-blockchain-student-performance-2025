@@ -26,10 +26,6 @@ EduChain AI is a next-generation academic analytics platform that combines the i
 ![Teacher Portal](docs/images/teacher_portal.png)
 *Securely deploying academic records to the decentralized protocol.*
 
-### 4. Blockchain Records Explorer
-![Blockchain Explorer](docs/images/blockchain_explorer.webp)
-*Immutable audit trail of all student achievements.*
-
 ---
 
 ## 🛠️ Technical Stack
